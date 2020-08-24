@@ -4,7 +4,7 @@ Practicing Client-Side Authentication with this Single Page Application. There i
 ![img](1.png)
 ![img](2.png)
 
-The endpoints that this API has to offer in server.js:
+# The endpoints that this API has to offer in server.js:
 
 [POST] * to /api/login: returns a token to be added to the header of all other requests. Pass in the following credentials as the body of the request: { username: 'Valerie', password: '123' }
 
